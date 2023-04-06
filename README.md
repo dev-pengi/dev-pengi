@@ -1,7 +1,7 @@
 ### Hey there 👋, i'm sifedine a software developer.
 
 - 🔭 I'm currently working on more than 5 different projects for the meantime
-- 📫 How to reach me: siffffdoul@gmail.com
+- 📫 How to reach me: links in my profile
 - 💬 You can ask me about javascript
 
 ---

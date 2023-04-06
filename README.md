@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on more than 5 different projects for the meantime
 - 📫 How to reach me: siffffdoul@gmail.com
-- 💬 You can ask me about any thing
+- 💬 You can ask me about javascript
 
 ---
 

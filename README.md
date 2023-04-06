@@ -14,10 +14,24 @@
 - [utils-core docs](https://utils-core.js.org): the docs for utils-core.js built with docusaurus and react
 ---
 
-### GitHub Stats:
-![Sif's github stats](https://github-readme-stats.vercel.app/api?username=dev-pengi&count_private=true&show_icons=true&theme=radical&&bg_color=24242c)
+### Skills
 
-![Sif's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pengi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=24242c)
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,typescript,nodejs,mongodb,react,git,github,postman,linux,nginx,netlify,html,css,md&perline=7" />
+
+
+---
+
+### GitHub Stats:
+<a href="http://www.github.com/dev-pengi"><img src="https://github-readme-stats.vercel.app/api?username=dev-pengi&count_private=true&show_icons=true&theme=radical&&bg_color=272932" /></a>
+
+<a href="http://www.github.com/dev-pengi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pengi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=272932" /></a>
+
+
+
+
+---
 
 <a href="https://github.com/dev-pengi?tab=followers">
   <img src="https://img.shields.io/github/followers/dev-pengi">

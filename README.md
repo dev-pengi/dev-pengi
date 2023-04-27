@@ -18,7 +18,7 @@
 
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,typescript,nodejs,mongodb,react,nextjs,redux,git,github,postman,linux,nginx,netlify,html,css,md&perline=8" />
+<img src="https://skillicons.dev/icons?i=js,typescript,nodejs,mongodb,react,nextjs,redux,tailwindcss,git,github,postman,linux,nginx,netlify,html,css,md&perline=8" />
 
 
 ---

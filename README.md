@@ -1,6 +1,5 @@
 ### Hey there 👋, i'm sifedine a software developer.
 
-- 🔭 I'm currently working on more than 5 different projects
 - 📫 you can reach me through the links in my profile
 - 💬 You can ask me about javascript
 

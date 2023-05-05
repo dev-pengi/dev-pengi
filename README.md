@@ -32,7 +32,7 @@
 ### GitHub Stats:
 <a href="http://www.github.com/dev-pengi"><img src="https://github-readme-stats.vercel.app/api?username=dev-pengi&count_private=true&show_icons=true&theme=radical&&bg_color=272932" /></a>
 
-
+<a href="http://www.github.com/dev-pengi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pengi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=272932" /></a>
 
 
 

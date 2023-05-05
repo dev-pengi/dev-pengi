@@ -1,8 +1,8 @@
 # Sifedine a software developer. 👋
 
 - 📫 you can reach me through the links in my profile
-- 🌱 Currently learning python and machine learning.
 - 💬 You can ask me about javascript
+- 🌱 Currently learning ASP.NET.
 
 ---
 

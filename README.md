@@ -24,7 +24,7 @@
 
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,graphql&perline=9" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,graphql,threejs&perline=9" />
 
 
 ---

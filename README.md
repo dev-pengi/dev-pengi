@@ -30,7 +30,7 @@
 ---
 
 ### GitHub Stats:
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-pengi&show_icons=true&include_all_commits=true&theme=slateorange&count_private=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pengi&layout=compact&langs_count=8&theme=slateorange&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-pengi&show_icons=true&theme=slateorange&count_private=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pengi&layout=compact&langs_count=8&theme=slateorange&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 

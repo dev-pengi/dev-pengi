@@ -2,7 +2,6 @@
 
 - 📫 you can reach me through the links in my profile
 - 💬 You can ask me about javascript
-- 🌱 Currently learning .NET
 
 ---
 

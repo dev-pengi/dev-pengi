@@ -11,6 +11,7 @@
 - [Co med](https://co-med.org): Co med is both managing system for doctors and reservation system for patients
 - [utils-core.js](https://github.com/dev-pengi/utils-core.js): utilscore is a javaScript utility library that simplifys common programming tasks
 - [utils-core docs](https://utils-core.js.org): the docs for utils-core.js built with docusaurus and react
+- more projects in [my portfolio](https://sifedine.com)
 ---
 
 ### Skills

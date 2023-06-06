@@ -9,8 +9,8 @@
 > these are some project made by me:
 - [chatti](https://chatti.lol): chatti is a chat web application built with react, it's open sourced on [my github](https://github.com/dev-pengi/chatti)
 - [Co med](https://co-med.org): Co med is both managing system for doctors and reservation system for patients
-- [utils-core.js](https://github.com/dev-pengi/utils-core.js): utilscore is a javaScript utility library that simplifys common programming tasks
-- [utils-core docs](https://utils-core.js.org): the docs for utils-core.js built with docusaurus and react
+- [svg blob](https://blob.sifedine.com): svg blob is a simple nextjs website to generate and customize svg blob shapes
+- [clip-path](https://clip.sifedine.com): a css clip path make and editor built with nextjs and tailwindcss
 - more projects in [my portfolio](https://sifedine.com)
 ---
 

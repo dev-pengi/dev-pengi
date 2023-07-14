@@ -18,7 +18,7 @@
 
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,typescript,nodejs,express,mongodb,react,nextjs,expo,redux,tailwindcss,electron,git,github,postman,linux,nginx,bash,netlify,html,css,md&perline=10" />
+<img src="https://skillicons.dev/icons?i=js,typescript,nodejs,express,mongodb,react,nextjs,redux,tailwindcss,electron,git,github,postman,linux,nginx,bash,netlify,html,css,md&perline=10" />
   
 ### Learning
 

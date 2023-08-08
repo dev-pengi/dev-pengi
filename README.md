@@ -7,9 +7,10 @@
 
 ### Projects:
 > these are some project made by me:
+- [sif code](http://code.sifedine.com/): a file based web editor, perfect for beginners and quick projects.
 - [svg blob](https://blob.sifedine.com): svg blob is a simple nextjs website to generate and customize svg blob shapes
 - [clip-path](https://clip.sifedine.com): a css clip path make and editor built with nextjs and tailwindcss
-- [chatti](https://chatti.lol): chatti is a chat web application built with react, it's open sourced on [my github](https://github.com/dev-pengi/chatti)
+- [chatti](https://chatti.lol): chatti is a chat web application built with react
 - [Co med](https://co-med.org): Co med is both managing system for doctors and reservation system for patients
 - more projects in [my portfolio](https://sifedine.com)
 ---

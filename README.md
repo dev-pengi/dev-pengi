@@ -20,12 +20,6 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,express,mongodb,react,nextjs,redux,tailwindcss,electron,git,github,postman,linux,nginx,bash,netlify,html,css,md&perline=10" />
-  
-### Learning
-
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=py,mysql,graphql&perline=4" />
 
 
 ---

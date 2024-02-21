@@ -8,6 +8,7 @@
 
 ### Projects:
 > these are some project made by me:
+- [sif player](http://player.sifedine.com/): a web-based video player, also has a more advanced desktop version 
 - [sif code](http://code.sifedine.com/): a file based web editor, perfect for beginners and quick projects.
 - [svg blob](https://blob.sifedine.com): svg blob is a simple nextjs website to generate and customize svg blob shapes
 - [clip-path](https://clip.sifedine.com): a css clip path make and editor built with nextjs and tailwindcss

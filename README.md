@@ -1,13 +1,7 @@
-# Sifedine A Software Engineer. 👋
-
-- 📫 you can reach me through the links in my profile
-- 💬 You can ask me about javascript
-- 🐰 from algeria
-
----
+## Sifedine Software Engineer
 
 ### Projects:
-> these are some project made by me:
+> some project:
 - [sif player](http://player.sifedine.com/): a web-based video player, also has a more advanced desktop version 
 - [sif code](http://code.sifedine.com/): a file based web editor, perfect for beginners and quick projects.
 - [svg blob](https://blob.sifedine.com): svg blob is a simple nextjs website to generate and customize svg blob shapes

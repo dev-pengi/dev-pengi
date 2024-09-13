@@ -1,7 +1,7 @@
 ## Sifedine Software Engineer
 
 ### Projects:
-> some project:
+> some open source projects:
 - [sif player](http://player.sifedine.com/): a web-based video player, also has a more advanced desktop version 
 - [sif code](http://code.sifedine.com/): a file based web editor, perfect for beginners and quick projects.
 - [svg blob](https://blob.sifedine.com): svg blob is a simple nextjs website to generate and customize svg blob shapes

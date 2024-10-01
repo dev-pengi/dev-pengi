@@ -11,7 +11,7 @@
 - more projects in [my portfolio](https://sifedine.com)
 ---
 
-### Skills
+### Tools
 
 
 <p align="left">

@@ -1,15 +1,7 @@
-## Sifedine Software Engineer
+## Seif Eddine
 
-### Projects:
-> some open source projects:
-- [sif player](http://player.sifedine.com/): a web-based video player, also has a more advanced desktop version 
-- [sif code](http://code.sifedine.com/): a file based web editor, perfect for beginners and quick projects.
-- [svg blob](https://blob.sifedine.com): svg blob is a simple nextjs website to generate and customize svg blob shapes
-- [clip-path](https://clip.sifedine.com): a css clip path make and editor built with nextjs and tailwindcss
-- [chatti](https://chatti.lol): chatti is a chat web application built with react
-- [Co med](https://co-med.org): Co med is both managing system for doctors and reservation system for patients
-- more projects in [my portfolio](https://sifedine.com)
----
+### Software Engineer | Frontend Lead at [Qareeb](https://qareeb.io)
+- [My LinkedIn](https://www.linkedin.com/in/sifedine/)
 
 ### Tools
 

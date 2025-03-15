@@ -1,6 +1,6 @@
 ## Seif Eddine
 
-### mlkhr nkhdm fi [Qareeb](https://qareeb.io) w titre mdkhlkch
+### Software Engineer | Frontend Lead [Qareeb](https://qareeb.io) 
 - [LinkedIn](https://www.linkedin.com/in/sifedine/)
 
 ---

@@ -1,6 +1,6 @@
 ## Seif Eddine
 
-### Software Engineer | Frontend Lead [Qareeb](https://qareeb.io) 
+### Tech Lead [Qareeb](https://qareeb.io) 
 - [LinkedIn](https://www.linkedin.com/in/sifedine/)
 
 ---
